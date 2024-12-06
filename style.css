@@ -1,0 +1,44 @@
+/* General Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #1c1b1b;
+    margin: 0;
+    padding: 0;
+}
+
+h4, h5 {
+    font-family: 'Playfair Display', serif;
+}
+
+.bg-light {
+    background-color: #fefef5 !important;
+}
+
+.text-success {
+    color: #4caf50 !important;
+}
+
+button.btn-success {
+    background-color: #4caf50;
+    border: none;
+}
+
+button.btn-success:hover {
+    background-color: #45a049;
+}
+
+.btn-box{
+    padding: 18px;
+}
+
+.btn-box button{
+    padding: 8px;
+}
+
+.main{
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(243, 243, 240);
+    padding: 20px;
+    margin-top: 40px;
+}
